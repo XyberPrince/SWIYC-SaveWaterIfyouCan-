@@ -1,0 +1,127 @@
+div h3{
+
+	background-color: #b2c7cb;
+	height:60px;
+	opacity: 0.6;
+	text-align: center;
+	display:block;
+	font-size: 50px;
+	color:white;
+
+}
+
+#nav{
+	display:block;
+	background-color: black;
+	font-size: 20px;
+	opacity:0.5;
+    height:50px;
+
+
+
+}
+#nav a li{
+	display:inline-block;
+	font-size:20px;
+	color:white;
+	padding:15px 15px 15px 15px;
+	text-decoration:none;
+	
+}
+
+.error h2{
+	font-size:1.5em;
+	text-align: center;
+	font-weight: bold;
+	color:red;
+}
+
+#nav a li:hover{
+	color:white;
+	background-color: orange;
+
+	
+
+	
+}
+div.a{
+	background-color:transparent;
+	text-align: center;
+	
+}
+.button{
+	background:orange;
+	box-shadow: 0 1px 2px 0 rgba(0.2,0.2,0.2,.2);
+border: none;
+color:white;
+width: 10em;
+height:3em;
+font-size: 10px;
+}
+
+div.im{
+	margin-left: 180px;
+}
+
+/*table.t{
+	font-family:serif;
+	background-color: rgba(128,128,128,0.4);
+	opacity: 0.7;
+}*/
+/*table{
+	width: 300px;
+	table-row
+}*/
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align:center;
+	border-color:#89b1b7;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+	
+}
+th{
+	font-size:23px;
+	padding: 15px;
+}
+tr {
+	font-size: 10px;
+	font-weight: bold;
+}
+td {
+    padding: 15px;
+	font-size:17px;
+}
+table tr:nth-child(even){
+	background-color: whitesmoke;
+	
+
+}
+p{
+	font-family:serif;
+	font-size:35px;
+	font-weight:bold;
+	text-align:center;
+	color:#89b1b7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
